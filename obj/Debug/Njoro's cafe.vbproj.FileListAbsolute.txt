@@ -1,0 +1,21 @@
+C:\Users\ENVY\Downloads\Event programming\Njoro's cafe\bin\Debug\Food App.accdb
+C:\Users\ENVY\Downloads\Event programming\Njoro's cafe\bin\Debug\Njoro's cafe.exe.config
+C:\Users\ENVY\Downloads\Event programming\Njoro's cafe\bin\Debug\Njoro's cafe.exe
+C:\Users\ENVY\Downloads\Event programming\Njoro's cafe\bin\Debug\Njoro's cafe.pdb
+C:\Users\ENVY\Downloads\Event programming\Njoro's cafe\bin\Debug\Njoro's cafe.xml
+C:\Users\ENVY\Downloads\Event programming\Njoro's cafe\obj\Debug\Njoro's cafe.vbproj.AssemblyReference.cache
+C:\Users\ENVY\Downloads\Event programming\Njoro's cafe\obj\Debug\Njoro's cafe.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ENVY\Downloads\Event programming\Njoro's cafe\obj\Debug\Njoro_s_cafe.LoginForm1.resources
+C:\Users\ENVY\Downloads\Event programming\Njoro's cafe\obj\Debug\Njoro_s_cafe.MDIParent1.resources
+C:\Users\ENVY\Downloads\Event programming\Njoro's cafe\obj\Debug\Njoro_s_cafe.Resources.resources
+C:\Users\ENVY\Downloads\Event programming\Njoro's cafe\obj\Debug\Njoro's cafe.vbproj.GenerateResource.cache
+C:\Users\ENVY\Downloads\Event programming\Njoro's cafe\obj\Debug\Njoro's cafe.vbproj.CoreCompileInputs.cache
+C:\Users\ENVY\Downloads\Event programming\Njoro's cafe\obj\Debug\Njoro's cafe.exe
+C:\Users\ENVY\Downloads\Event programming\Njoro's cafe\obj\Debug\Njoro's cafe.xml
+C:\Users\ENVY\Downloads\Event programming\Njoro's cafe\obj\Debug\Njoro's cafe.pdb
+C:\Users\ENVY\Downloads\Event programming\Njoro's cafe\obj\Debug\Njoro_s_cafe.Form2.resources
+C:\Users\ENVY\Downloads\Event programming\Njoro's cafe\bin\Debug\System.Data.OleDb.dll
+C:\Users\ENVY\Downloads\Event programming\Njoro's cafe\bin\Debug\System.Data.OleDb.xml
+C:\Users\ENVY\Downloads\Event programming\Njoro's cafe\obj\Debug\Njoro's cafe.vbproj.CopyComplete
+C:\Users\ENVY\Downloads\Event programming\Njoro's Cafe\obj\Debug\Njoro_s_cafe.Splash1.resources
+C:\Users\ENVY\Downloads\Event programming\Njoro's Cafe\obj\Debug\Njoro_s_cafe.fmmenu.resources
